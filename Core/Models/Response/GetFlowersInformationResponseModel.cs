@@ -2,8 +2,8 @@
 {
     public class GetFlowersInformationResponseModel
     {
-        public string? internalMessage { get; set; }
-        public string? userMessage {  get; set; }
-        public List<GetFlowersInformationResponseDataModel> data { get; set; }
+        public string? Name { get; set; }
+        public string? Colour { get; set; }
+        //public List<GetFlowersInformationResponseDataModel> data { get; set; }
     }
 }

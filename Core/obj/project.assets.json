@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stj90420\\source\\repos\\Koton\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\stj90420\\source\\repos\\FlowersAPI\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\stj90420\\source\\repos\\Koton\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\stj90420\\source\\repos\\FlowersAPI\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\stj90420\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stj90420\\source\\repos\\Koton\\Core\\obj\\",
+      "outputPath": "C:\\Users\\stj90420\\source\\repos\\FlowersAPI\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

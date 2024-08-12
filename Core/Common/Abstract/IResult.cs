@@ -1,9 +1,9 @@
 ﻿namespace Core.Common.Abstract
 {
-    public class IResult<T>
+    public interface IResult<T>
     {
-        bool IsSuccess {  get; set; }
-        string? Message {  get; set; }
+        bool IsSuccess { get; set; }
+        string? Message { get; set; }
         T Data { get; set; }
     }
 }
